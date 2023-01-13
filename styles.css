@@ -2,18 +2,17 @@ body {
     background-color: rgb(34, 33, 33);
 }
 
-#heading {
-    color: white;
-    font-family:Georgia, 'Times New Roman', Times, serif;
-    
+center h1, center h4 {
+    color: rgb(168, 150, 150);
+    font-family:Georgia, 'Times New Roman', Times, serif;  
 }
 
 
 .flex-container {
     display: flex;
-    margin: 90px;
+    margin: 60px;
     border: 1px solid rgb(167, 159, 159);
-    border-radius: 7px;
+    border-radius: 25px;
     height: 250px;
     
     
